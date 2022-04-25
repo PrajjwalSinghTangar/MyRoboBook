@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MyRoboBook/static/css/main.b8de2ef9.css",
+    "main.js": "/MyRoboBook/static/js/main.1e538a18.js",
+    "static/js/415.4517e1c1.chunk.js": "/MyRoboBook/static/js/415.4517e1c1.chunk.js",
+    "static/js/787.c06e83b6.chunk.js": "/MyRoboBook/static/js/787.c06e83b6.chunk.js",
+    "static/media/SEGA.woff": "/MyRoboBook/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/MyRoboBook/index.html",
+    "main.b8de2ef9.css.map": "/MyRoboBook/static/css/main.b8de2ef9.css.map",
+    "main.1e538a18.js.map": "/MyRoboBook/static/js/main.1e538a18.js.map",
+    "415.4517e1c1.chunk.js.map": "/MyRoboBook/static/js/415.4517e1c1.chunk.js.map",
+    "787.c06e83b6.chunk.js.map": "/MyRoboBook/static/js/787.c06e83b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8de2ef9.css",
+    "static/js/main.1e538a18.js"
+  ]
+}
