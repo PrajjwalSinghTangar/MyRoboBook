@@ -20,7 +20,7 @@ onSearchChange = (event) => {
 
   render () {
     const filteredUserData = this.state.UserData.filter(UserData => {
-      return UserData.name.toLowerCase().includes(this.state.searchfield.toLowerCase());
+      return UserData.username.toLowerCase().includes(this.state.searchfield.toLowerCase());
       })
     const particlesInit = (main) => {
           console.log(main);
